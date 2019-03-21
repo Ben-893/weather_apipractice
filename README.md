@@ -1,1 +1,1 @@
-# A practice app for using of APIs.
+# A practice app for using of APIs, and displaying the weather.
